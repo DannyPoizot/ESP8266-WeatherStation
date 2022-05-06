@@ -5,9 +5,10 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ featureDannyStage ]
+
+    branches: [ main]
   pull_request:
-    branches: [ featureDannyStage ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -16,7 +17,9 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [16.x]
+
+        node-version: [16.x, 14.x, 12.x]
+
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
