@@ -1,13 +1,13 @@
-# ESP8266-WeatherStation
+# Dashboard Meteo React with ESP8266
+
+## ESP8266-WeatherStation
 WeatherStation with ESP8266 Board
 
-## Implement ESP8266 IoT Based Projects.
-code of project with 4-5 I/O (modules/sensors)
+### Implement ESP8266 IoT Based Projects.
+Code of project with 4-5 I/O (modules/sensors).
 
-## Complete Description
-I would like IoT system to communicate by Wifi with database using REST APIs(GET, POST, PUT, DELETE) to record and consume data sensors (Temperature, pressure, altitude, light intensity & humidity)
-
-
+Complete Description :
+I would like IoT system to communicate by Wifi with database using REST APIs(GET, POST, PUT, DELETE) to record and consume data sensors (Temperature, pressure, altitude, light intensity & humidity).
 
 #### Microcontrollers:
 ----------------
